@@ -60,4 +60,4 @@ Start here: [DarshLabsAI on GitHub](https://github.com/DarshLabsAI)
 
 ## Contact and Enrolment Enquiry
 
-For program information or enrolment enquiries, [message DarshLabs on WhatsApp](https://wa.me/919590580200).
+For program information or enrolment enquiries, [message DarshLabs on WhatsApp](https://wa.me/919590580200) / darshlabs@hotmail.com
