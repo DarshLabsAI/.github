@@ -1,4 +1,4 @@
-# DarshLabs
+# DarshLabs.com
 
 ## Build AI. Engineer impact.
 
