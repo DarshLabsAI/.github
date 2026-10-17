@@ -1,6 +1,5 @@
-# DarshLabs
-  `www.DarshLabs.com`
-
+# DarshLabs @ `www.DarshLabs.com`
+  
 ## Build AI. Engineer impact.
 
 ## What DarshLabs Does and Who It Serves
